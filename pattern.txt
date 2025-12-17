@@ -1,0 +1,4 @@
+Pattern: Left-aligned Triangle, Rows: 3, Spacing: ' '
+1        
+1 2      
+1 2 3    
